@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey all! My name is Dennis 👋
+
+* I'm a Solutions Arhitect with Red Hat.
+* I really enjoy diving into technology and learning how to best use it.
+* I'm a huge advocate for automation.
+* I'm also guilty of spending 5 hours scripting something that takes 10 minutes to do manually.
+* Please feel free to reach out and say hello!
 
 <!--
 **denperr/denperr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
